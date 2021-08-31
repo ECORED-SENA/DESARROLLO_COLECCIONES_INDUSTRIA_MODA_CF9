@@ -1,3 +1,9 @@
+.img-a 
+  display: block 
+  margin: auto   
+  width: auto
+  height: auto
+  
 .titulo-principal__numero
   background-color: $color-secundario !important
 
@@ -35,3 +41,63 @@
 
 .tx_bg7
   color: #E24B00
+
+.bloque-texto-d.color-secundario:before
+  background-color: #D3EAFA
+
+.bloque-texto-d i 
+  color: #529AD9
+
+.bloque-texto-d 
+  border-top: 1px solid #529AD9
+
+.list 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__bulletNumber 
+      position: relative
+      width: 50px
+      height: 50px
+      margin-right: 1rem
+      text-align: center
+      border-radius: 50%
+      background-color: #BF3976
+      span 
+        color: white
+        font-weight: 900
+        font-size: 24px
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+      
+    
+    &__number 
+      position: relative
+      margin-right: 1rem
+      span 
+        color:orange
+        font-size: 15pt
+        font-weight: 700
+        line-height: 1.2
+      
+    
+    &__icon 
+      position: relative
+      width: 15px
+      margin-right: 0.65rem
+      img 
+        width: 15px
+        vertical-align: middle
+      
+    
+  
+  &__txt 
+    p:first-child,
+    h3:first-child 
+      margin-top: 0px
+
+.m-top      
+  margin-top: -7px !important
+
