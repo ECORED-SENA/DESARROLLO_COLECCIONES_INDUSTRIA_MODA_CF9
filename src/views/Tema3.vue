@@ -8,10 +8,10 @@
         span 3
       h1 Básico de camisa de niño
     
-    figure.mb-3
+    figure.mb-3(data-aos="flip-up")
       img.img-a(src='@/assets/curso/tema_3/img_1.png', alt='Medida lado o altura de rodilla')
 
-    .bloque-texto-d.color-secundario.p-4.mb-5
+    .bloque-texto-d.color-secundario.p-4.mb-5(data-aos="flip-up")
       .bloque-texto-d__texto.mb-2
         i.fas.fa-quote-left
         h3.text-regular Se llama básico de camisa a la base de prendas superiores, que como su nombre lo indica será la base con la que se construyan prendas como camisas, camisetas, suéteres, en fin, las prendas que cubren el tronco del cuerpo humano.  Para el trazo de esta base se trabajará con el Manual de patronaje básico e interpretación de diseños, por lo cual se hace importante entender las convenciones, fórmulas y métodos en él planteados.
@@ -19,11 +19,11 @@
       .bloque-texto-d__autor 
         .h5.mb-0 Gutiérrez Rengifo (2011)
 
-    p.mb-5 Para el desarrollo de esta base se recomienda seguir el vídeo paso a paso de la base superior infantil incluido en el material complementario. 
+    p.mb-5(data-aos="flip-up") Para el desarrollo de esta base se recomienda seguir el vídeo paso a paso de la base superior infantil incluido en el material complementario. 
 
-    h3.text-center.mb-5 Básicos camisa de niño
+    h3.text-center.mb-5(data-aos="flip-up") Básicos camisa de niño
 
-    TabsB.color-acento-contenido
+    TabsB.color-acento-contenido(data-aos="flip-up")
       .py-4.py(titulo="1. Base superior infantil" :icono="require('@/assets/curso/tema_3/img_2.svg')")
 
         SlyderE(indicadores="derecha")

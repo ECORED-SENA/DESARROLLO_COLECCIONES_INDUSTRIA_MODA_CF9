@@ -182,6 +182,13 @@ export default {
         titulo: 'Básico de camisa de niño',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Escalado de la camisa niño',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
