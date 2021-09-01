@@ -19,116 +19,6 @@ export default {
         numero: '1',
         titulo: 'Componentes',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Encabezados',
-            hash: 'encabezados',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Párrafos',
-            hash: 'parrafos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Botones',
-            hash: 'botones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Listas',
-            hash: 'listas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Tablas',
-            hash: 'tablas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Imagen',
-            hash: 'imagen',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.7',
-            titulo: 'Imagen Infográfica',
-            hash: 'imagen_infografica',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.8',
-            titulo: 'Video',
-            hash: 'video',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.9',
-            titulo: 'Bloques de texto destacado',
-            hash: 'texto_destacado',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.10',
-            titulo: 'Sliders',
-            hash: 'sliders',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.11',
-            titulo: 'Acordiones',
-            hash: 'acordiones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.12',
-            titulo: 'Pestañas o Tabs',
-            hash: 'tabs',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.13',
-            titulo: 'Líneas de tiempo',
-            hash: 'lineas_tiempo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.14',
-            titulo: 'Pasos',
-            hash: 'pasos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.15',
-            titulo: 'Llamados a la acción',
-            hash: 'llamados_accion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.16',
-            titulo: 'Tarjetas',
-            hash: 'tarjetas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.17',
-            titulo: 'Tarjetas con número',
-            hash: 'tarjeta_numero',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.18',
-            titulo: 'Modal',
-            hash: 'modal',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
@@ -136,44 +26,6 @@ export default {
         numero: '2',
         titulo: 'Producción Audiovisual',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Infografía Animada',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Video Motion',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Motion + Presentador',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Animación 2D',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Video interactivo',
-            hash: 't_2_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.6',
-            titulo: 'Infografías',
-            hash: 't_2_6',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -189,14 +41,15 @@ export default {
         titulo: 'Escalado de la camisa niño',
         desarrolloContenidos: true,
       },
-    ],
-    subMenu: [
       {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: 'Básico del pantalón y el jean',
         desarrolloContenidos: true,
       },
+    ],
+    subMenu: [
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -233,98 +86,123 @@ export default {
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'Definicion.de. (s.f.). Definicion.de. Definicion.De. Retrieved July 6, 2020, from',
+      link: 'https://definicion.de/sastre/',
     },
+
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Definiciona. (s.f.). Significado y definición de curvígrafo, etimología de curvígrafo. Definiciona. Retrieved December 1, 2020, from',
+      link: 'https://definiciona.com/curvigrafo/',
     },
+
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'DICCIONARIO DE COSTURA LETRA - E -. (s.f.). Jarcamora. Retrieved September 21, 2020, from',
+      link: 'https://www.jarcamora.com/diccionario-de-costura-letra-e/',
     },
+
+    { referencia: 'Gaviria, A. (2018). Escalado.' },
+
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+        'Gutiérrez Rengifo, L. A., Moncayo Velazco, A. X., Tanaka, K., Kimura, F., Moreno Brand, D., & Servicio Nacional de Aprendizaje. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje.',
+      link: 'https://hdl.handle.net/11404/4725',
     },
+
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'Real Académia Española. (s.f.). DRAE | Diccionario de la lengua española | Edición del Tricentenario | RAE - ASALE. Retrieved July 6, 2020, from',
+      link: 'https://dle.rae.es/',
     },
+
+    { referencia: 'Rodríguez, M. (2020a). Análisis de cuadros de tallas.' },
+
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Rodríguez, M. (2020b). Base inferior de Falda Infantil - Gráficas.',
     },
+
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Rodríguez, M. (2020c). Base inferior de pantalón infantil - gráficas.',
+    },
+
+    { referencia: 'Rodríguez, M. (2020d). Base superior infantil - Gráficas.' },
+
+    {
+      referencia:
+        'Rodríguez, M. (2020e). Base superior infantil - vídeo explicativo.',
+    },
+
+    { referencia: 'Rodríguez, M. (2020f). Clasificación de las medidas.' },
+
+    { referencia: 'Rodríguez, M. (2020g). Conceptos de patronaje.' },
+
+    {
+      referencia:
+        'Rodríguez, M. (2020h). Metodología – presentación del manual de patronaje SENA.',
+    },
+
+    {
+      referencia:
+        'Vélez Sánchez, M., García Vasco, M. E., & Hincapié Echeverri, L. A. (1995). Patronaje y escalado línea infantil (J. I. Londoño, M. E. García Vasco, & M. Vélez Sánchez (Eds.)). Servicio Nacional de Aprendizaje (SENA).',
+      link: 'https://hdl.handle.net/11404/4874',
+    },
+
+    {
+      referencia:
+        'Wikipedia. (s.f.). Wikipedia, la enciclopedia libre. Wikipedia. Retrieved July 6, 2020, from',
+      link: 'https://es.wikipedia.org/wiki/Código_de_vestimenta',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Bermuda',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Las bermudas son un tipo particular de pantalones cortos, usados extensamente como indumentaria informal tanto por hombres como por mujeres. El dobladillo se coloca alrededor de una a cuatro pulgadas (2,5 - 10 cm) sobre la rodilla.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Capri',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Los pantalones capri (a veces llamados sólo Capris) también conocidos como pantalones pirata (o simplemente piratas), pantalones corsarios o pesqueros o de huerto (o simplemente hortelanos) son un tipo de pantalón que se lleva durante el verano con zapatos abiertos o durante el invierno con botas. Están diseñados para acabar cerca de media pantorrilla o justo bajo la pantorrilla. Son más populares para mujeres, aunque a finales del siglo veinte y principios del veintiuno se hicieron populares entre los hombres jóvenes en varios países',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Contorno',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        '2. m. Conjunto de las líneas que limitan una figura o composición.',
+    },
+
+    {
+      termino: 'Curvígrafo',
+      significado:
+        'Sustantivo masculino. Este vocablo de uso obsoleto hace alusión a una herramienta utilizada en el campo de las matemáticas, geometría y en física, se emplea para trazar, dibujar, diseñar y bosquejar curvas y en distintas dimensiones o espacios',
+    },
+    { termino: 'Encarterar', significado: 'Método de refuerzo' },
+    {
+      termino: 'Horizontal',
+      significado:
+        '1. adj. Perteneciente o relativo al horizonte. 2. adj. Paralelo al horizonte.',
     },
     {
-      termino: 'Áectores',
+      termino: 'Longitudinal',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        '1. adj. Perteneciente o relativo a la longitud. 2. adj. Hecho o colocado en el sentido o dirección de la longitud',
     },
     {
-      termino: 'Moda',
+      termino: 'Overol',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        '1. m. Am. mono (‖ prenda de vestir) (Real Academia Española, s.f.) Mono: Prenda de vestir de una sola pieza, de tela fuerte, que consta de cuerpo y pantalón, especialmente la utilizada en diversos oficios como traje de faena',
     },
     {
-      termino: 'Diseño',
+      termino: 'Patrón base',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Se hace referencia a la plantilla en papel que se copia en una tela en concreto con el claro objetivo de poder crear y coser así cualquier prenda de vestir. Así, a partir de dicha plantilla, la costurera o el sastre cortan las piezas que conforman la prenda en cuestión y posteriormente procederán a confeccionar',
     },
     {
-      termino: 'Tipología',
+      termino: 'Vertical',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        '1. adj. Dicho de una recta o de un plano: Que es perpendicular a un plano horizontal. 2. adj. Que tiene la dirección de la plomada. Apl. a una línea, u. t. c. s. f. 3. adj. Que, en figuras, dibujos, escritos, impresos, etc., va de la cabeza al pie.',
     },
   ],
   complementario: [
@@ -372,6 +250,47 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Marisol Osorio',
+        cargo: 'Líder Sennova',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
+      },
+      {
+        nombre: 'María Luisa Yepes',
+        cargo: 'Instructora',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
+      },
+      {
+        nombre: 'Fabio Andrés Gaviria Londoño',
+        cargo: 'Instructor',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
+      },
+      {
+        nombre: 'Jhon Fernando Jaramillo',
+        cargo: 'Taborda	Investigador – Grupo de investigación INAMOD',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda - Regional Antioquia',
+      },
+      {
+        nombre: 'Liliana Victoria Morales Gualdrón',
+        cargo: 'Diseñadora Instruccional',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital.',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Revisión pedagógica y metodológica',
+        centro: 'Centro de diseño y metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Sandra Patricia Hoyos Sepúlveda',
+        cargo: 'Revisión y corrección de estilo',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica – Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -386,16 +305,22 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: ['Eulises Orduz Amezquita'],
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Ricardo Alfonso González Vargas',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Nombre',
