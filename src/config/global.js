@@ -48,6 +48,13 @@ export default {
         titulo: 'Básico del pantalón y el jean',
         desarrolloContenidos: true,
       },
+      {
+        nombreRuta: 'tema6',
+        icono: 'far fa-file-alt',
+        numero: '6',
+        titulo: 'Desarrollo de modelo de overol',
+        desarrolloContenidos: true,
+      },
     ],
     subMenu: [
       {
