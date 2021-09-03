@@ -263,32 +263,67 @@ export default {
   ],
   complementario: [
     {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto: 'Rodríguez, M. (2020). Clasificación de las medidas.',
+      tipo: 'Presentación PDF',
+      descarga: '/downloads/1._CLASIFICACION_DE_LAS_MEDIDAS.pdf',
+    },
+    {
+      texto: 'Rodríguez, M. (2020). Análisis de cuadros de tallas.',
+      tipo: 'Presentación PDF',
+      descarga: '/downloads/2._ANALISIS_DE_CUADROS_DE_TALLAS.pdf',
+    },
+    {
+      texto: 'Rodríguez, M. (2020). Conceptos de patronaje.',
+      tipo: 'Presentación PDF',
+      descarga: '/downloads/3._CONCEPTOS_DE_PATRONAJE.pdf',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Rodríguez, M. (2020). Metodología – presentación del manual de patronaje SENA.',
+      tipo: 'Presentación PDF',
+      descarga:
+        '/downloads/4._METODOLOGIA-PRESENTACION_DEL_MANUAL_DE_PATRONAJE_SENA.pdf',
+    },
+    {
+      texto: 'Rodríguez, M. (2020). Base superior infantil - Gráficas.',
+      tipo: 'Presentación PDF',
+      descarga: '/downloads/5.a._BASE_SUPERIOR_INFANTIL-GRAFICAS.pdf',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+        'Rodríguez, M. (2020). Base superior infantil - vídeo explicativo.',
+      tipo: 'Video ',
+      link: 'https://www.youtube.com/embed/jCQosSNNXz0',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      texto:
+        'Rodríguez, M. (2020). Base inferior de pantalón infantil - gráficas.',
+      tipo: 'Presentación PDF',
+      descarga: '/downloads/6._BASE_INFERIOR_DE_PANTALON_INFANTIL-GRAFICOS.pdf',
     },
     {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto:
+        'Rodríguez, M. (2020). Base inferior de Falda Infantil - Gráficas.',
+      tipo: 'Presentación PDF',
+      descarga: '/downloads/7.a._BASE_INFERIOR_DE_FALDA_INFANTIL-GRAFICOS.pdf',
+    },
+    {
+      texto:
+        'Rodríguez, M. (2020). Base inferior de falda infantil - vídeo explicativo.',
+      tipo: 'Video ',
+      link: 'https://www.youtube.com/embed/4CuZvqrSnJA',
+    },
+    {
+      texto:
+        'Vélez Sánchez, M., García Vasco, M. E., & Hincapié Echeverri, L. A. (1995). Patronaje y escalado línea infantil (J. I. Londoño, M. E. García Vasco, & M. Vélez Sánchez (eds.))',
+      tipo: 'Manual',
+      descarga: '/downloads/patronaje_escalado_linea_infantil.pdf',
+    },
+    {
+      texto:
+        'Gutiérrez Rengifo, L. A., Moncayo Velazco, A. X., Tanaka, K., Kimura, F., Moreno Brand, D., & Servicio Nacional de Aprendizaje. (2011). Manual de patronaje básico e interpretación de diseños. ',
+      tipo: 'Manual',
+      descarga: '/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf',
     },
   ],
   creditos: {
