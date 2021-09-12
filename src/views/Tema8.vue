@@ -27,7 +27,7 @@
           p.mb-0 #[i Cuello]
         figure
           img.mb-3.img-a(src='@/assets/curso/tema_8/img_2.png', alt='Texto que describa la imagen')
-          figcaption Nota. Fuente: Shutterstock
+          figcaption.d-flex Nota. Fuente: Shutterstock
       .col-lg-5
         .titulo-sexto.color-acento-contenido
           h5 Figura 113

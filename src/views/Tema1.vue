@@ -19,6 +19,7 @@
           
         figure(data-aos="fade-up-right")
           img(src="@/assets/curso/intro.jpg", alt="Modelos infantiles")
+          figcaption Nota. https://shutr.bz/3AtTuXO
   
 </template>
 

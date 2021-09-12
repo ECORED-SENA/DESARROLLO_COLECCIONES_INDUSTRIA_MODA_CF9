@@ -101,6 +101,10 @@
                           span 2
                     .list__txt    
                       p Dar desahogos de igual manera que se dieron a la base de camisa infantil, para el ejemplo se trabajará con 4 cm, por lo tanto se dará 1 cm en cada costado y se bajará la altura de sisa 0.5 cm.
+                .col-lg-6
+                  p.mb-5 A partir de cada una de las pinzas marcar hacia abajo el largo de pinza empleado en la falda, ver figura:
+              .row
+                .col-lg-6
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 109
                     p.mb-0 #[i  Pasos blusa infantil-1]
@@ -108,8 +112,6 @@
                     img.img-a(src='@/assets/curso/tema_7/img_7.png', alt='Texto que describa la imagen')
                     figcaption Nota. Fuente: elaboración propia en softwares Optitex e Illustrator.
                 .col-lg-6
-                  p.mb-5 A partir de cada una de las pinzas marcar hacia abajo el largo de pinza empleado en la falda, ver figura:
-
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 110
                     p.mb-0 #[i Pasos blusa infantil-2]

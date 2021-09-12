@@ -16,6 +16,7 @@
 
     figure.mb-5(data-aos="fade-up-right")
       img(src="@/assets/curso/tema_2/img_1.png", alt="Crecimiento infantil")
+      figcaption Nota.https://shutr.bz/3fUzVjC y  https://shutr.bz/3xBfOwV
 
     p Para la línea infantil las tallas son nombradas según la edad en años, correspondiente así la T2 a un niño o una niña de 2 años, sin embargo, esta es solo una nomenclatura de referencia, pues hay niños más pequeños o más grandes que su percentil o talla. 
 
@@ -44,7 +45,7 @@
           figure
             img(src='@/assets/curso/tema_2/img_3.png', alt='Medida de contorno de cuello')
 
-      .row.justify-content-center(numero="3" titulo="Medida de contorno de cuello")
+      .row.justify-content-center(numero="3" titulo="Contorno de pecho")
         p.mb-5 Se toma el perímetro del pecho o tórax horizontalmente pasando por debajo de las axilas del bebé.
 
         .col-lg-6
@@ -54,7 +55,7 @@
           figure
             img(src='@/assets/curso/tema_2/img_4.png', alt='Medida de contorno de cuello')
 
-      .row.justify-content-center(numero="4" titulo="Medida de contorno de pecho")
+      .row.justify-content-center(numero="4" titulo="Contorno de cintura")
         p.mb-5 Se toma el perímetro la cintura o abdomen horizontalmente pasando por el ombligo (tomar medida con pañal puesto).
 
         .col-lg-6
@@ -96,7 +97,7 @@
         .col-lg-6
           .titulo-sexto.color-acento-contenido
             h5 Figura 10
-            p #[i Medida de contorno de codo]
+            p #[i  Medida de contorno de muñeca]
           figure
             img(src='@/assets/curso/tema_2/img_9.png', alt='Medida de contorno de codo')
 
@@ -218,7 +219,7 @@
         .col-lg-6
           .titulo-sexto.color-acento-contenido
             h5 Figura 22
-            p #[i Medida lado o altura de rodilla]
+            p #[i Medida largo o altura de rodilla]
           figure
             img(src='@/assets/curso/tema_2/img_21.png', alt='Medida lado o altura de rodilla')
 

@@ -233,6 +233,7 @@
                       span 11
                 .list__txt    
                   p Quedando así la base superior infantil:
+            .col-md-6.mb-4.mb-md-0
               .titulo-sexto.color-acento-contenido
                 h5 Figura 34
                 p.mb-0 #[i Final base superior infantil.]
@@ -286,9 +287,9 @@
             .col-md-6
               .titulo-sexto.color-acento-contenido
                 h5 Figura 37
-                p.mb-0 #[i Pasos base de manga infantil-1]
+                p.mb-0 #[i Pasos base de manga infantil-2]
               figure
-                img.img-a(src='@/assets/curso/tema_3/img_20.png', alt='Texto que describa la imagen')
+                img.img-a.mb-3(src='@/assets/curso/tema_3/img_20.png', alt='Texto que describa la imagen')
                 figcaption Pasos base de manga infantil-2
           .row
             .col-md-6.mb-4.mb-md-0
@@ -303,7 +304,7 @@
                 h5 Figura 38
                 p.mb-0 #[i Pasos base de manga infantil-3]
               figure
-                img.img-a(src='@/assets/curso/tema_3/img_20.png', alt='Texto que describa la imagen')
+                img.img-a.mb-3(src='@/assets/curso/tema_3/img_21.png', alt='Texto que describa la imagen')
                 figcaption Nota. Fuente: elaboración propia en softwares Optitex e Illustrator.
 
           .row
@@ -347,7 +348,7 @@
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 41
                     p.mb-0 #[i Base manga infantil-a]
-                  p.text-center Quedando así, la base de manga infantil:
+                  p.text-center.text-small.my-0 Quedando así, la base de manga infantil:
                   figure
                     img.img-a(src='@/assets/curso/tema_3/img_24.png', alt='Texto que describa la imagen')
                     figcaption Nota. Fuente: elaboración propia en softwares Optitex e Illustrator.
@@ -365,13 +366,13 @@
                 h5 Figura 42
                 p.mb-0 #[i Pasos base de manga infantil-6]
               figure.mb-4
-                img.img-a(src='@/assets/curso/tema_3/img_25.png', alt='Texto que describa la imagen')
+                img.img-a.mb-3(src='@/assets/curso/tema_3/img_25.png', alt='Texto que describa la imagen')
                 figcaption Nota. Fuente: elaboración propia en softwares Optitex e Illustrator.
               .titulo-sexto.color-acento-contenido
                 h5 Figura 43
                 p.mb-0 #[i Base manga infantil-b.]
               figure
-                img.img-a(src='@/assets/curso/tema_3/img_26.png', alt='Texto que describa la imagen')
+                img.img-a.mb-3(src='@/assets/curso/tema_3/img_26.png', alt='Texto que describa la imagen')
                 figcaption Nota. Fuente: elaboración propia en softwares Optitex e Illustrator.
 
           .row
@@ -396,6 +397,7 @@
                 p.mb-0 #[i Largos de mangas]
               figure
                 img.img-a(src='@/assets/curso/tema_3/img_27.png', alt='Texto que describa la imagen')
+                figcaption Fuente: elaboración propia en softwares Optitex e Illustrator.
 
       .py-4.py.mb-0(titulo="3. Base de camisa infantil" :icono="require('@/assets/curso/tema_3/img_4.svg')")
 
@@ -723,7 +725,7 @@
             .col-md-6
               .titulo-sexto.color-acento-contenido
                 h5 Figura 63
-                p.mb-0 #[i Modificaciones manga-5]
+                p.mb-0 #[i Modificaciones manga-6]
               figure
                 img.img-a(src='@/assets/curso/tema_3/img_47.png', alt='Texto que describa la imagen')
                 figcaption Nota. Fuente: elaboración propia en softwares Optitex e Illustrator.
@@ -735,7 +737,7 @@
                     .list__item__bulletNumber 
                       span 20
                 .list__txt    
-                  p Puño. Realizar un rectángulo con la medida inicial del ancho de puño, más la medida de monte de puño (va entre 3 y 4 cm, según diseño), más 2 cm de ventaja de costura (1cm a cada lado), el ancho de puño más ventajas de costura. El puño se corta dos veces en tela principal (uno para cada manga), dos veces en tela interna para contraste (según diseño) y dos veces en entretela, ver figura.
+                  p Quedando así las diferentes piezas de la camisa:
 
               .cajon.color-secundario.p-4
                 .row.align-items-center

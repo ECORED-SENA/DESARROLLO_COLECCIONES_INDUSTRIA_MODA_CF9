@@ -286,7 +286,7 @@
                     h5 Figura 137
                     p.mb-0 #[i Falda A]
                   figure
-                    img.img-a(src='@/assets/curso/tema_11/img_15.png', alt='Texto que describa la imagen')
+                    img.img-a(src='@/assets/curso/tema_11/img_16.png', alt='Texto que describa la imagen')
                     figcaption Nota. Fuente: elaboración propia en softwares Optitex e Illustrator
 
           .row.justify-content-center

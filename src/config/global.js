@@ -17,14 +17,14 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Componentes',
+        titulo: 'Introducción al patronaje infantil',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Producción Audiovisual',
+        titulo: 'Cuadro de tallas',
         desarrolloContenidos: true,
       },
       {
@@ -315,13 +315,13 @@ export default {
     },
     {
       texto:
-        'Vélez Sánchez, M., García Vasco, M. E., & Hincapié Echeverri, L. A. (1995). Patronaje y escalado línea infantil (J. I. Londoño, M. E. García Vasco, & M. Vélez Sánchez (eds.))',
+        'Vélez Sánchez, M., García Vasco, M. E., & Hincapié Echeverri, L. A. (1995). Patronaje y escalado línea infantil (J. I. Londoño, M. E. García Vasco, & M. Vélez Sánchez (eds.)). Servicio Nacional de Aprendizaje (SENA).',
       tipo: 'Manual',
       descarga: '/downloads/patronaje_escalado_linea_infantil.pdf',
     },
     {
       texto:
-        'Gutiérrez Rengifo, L. A., Moncayo Velazco, A. X., Tanaka, K., Kimura, F., Moreno Brand, D., & Servicio Nacional de Aprendizaje. (2011). Manual de patronaje básico e interpretación de diseños. ',
+        'Gutiérrez Rengifo, L. A., Moncayo Velazco, A. X., Tanaka, K., Kimura, F., Moreno Brand, D., & Servicio Nacional de Aprendizaje. (2011). Manual de patronaje básico e interpretación de diseños. Servicio Nacional de Aprendizaje. ',
       tipo: 'Manual',
       descarga: '/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf',
     },
@@ -414,13 +414,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

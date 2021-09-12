@@ -27,9 +27,9 @@
                 .col-lg-8
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 72
-                    p.mb-0 #[i Medidas a trabajar en la base superior infantil.]
+                    p.mb-0 #[i Base de pantalón infantil.]
                   figure
-                    img.img-a(src='@/assets/curso/tema_5/img_3.png', alt='Texto que describa la imagen')
+                    img.img-a.mb-3(src='@/assets/curso/tema_5/img_3.png', alt='Texto que describa la imagen')
                     figcaption Nota. Tomado de (Gutiérrez Rengifo et al., 2011).
 
           .row.justify-content-center
@@ -369,7 +369,7 @@
                     h5 Figura 90
                     p.mb-0 #[i Pasos de básico de Jean infantil-3]
                   figure
-                    img.img-a(src='@/assets/curso/tema_5/img_19.png', alt='Texto que describa la imagen')
+                    img.img-a(src='@/assets/curso/tema_5/img_21.png', alt='Texto que describa la imagen')
                     figcaption Nota. Fuente: elaboración propia en softwares Optitex e Illustrator.
 
           .row.justify-content-center

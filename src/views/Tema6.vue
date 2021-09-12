@@ -8,7 +8,7 @@
         span 6
       h1 Desarrollo de modelo de overol
 
-    p.mb-5 El overol es una prenda enteriza que se utiliza mucho en las líneas infantiles, viene del anglicismo Over All, que significa sobre todo. Para la realización de este patrón se requieren la base superior infantil y la base pantalón infantil, ambas en la misma talla. Veamos el paso a paso para la construcción de este modelo:
+    p.mb-5 El overol es una prenda enteriza que se utiliza mucho en las líneas infantiles, viene del anglicismo #[i Over All], que significa sobre todo. Para la realización de este patrón se requieren la base superior infantil y la base pantalón infantil, ambas en la misma talla. Veamos el paso a paso para la construcción de este modelo:
 
     .list.mb-5
       .list__item
