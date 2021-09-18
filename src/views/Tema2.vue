@@ -16,7 +16,7 @@
 
     figure.mb-5(data-aos="fade-up-right")
       img(src="@/assets/curso/tema_2/img_1.png", alt="Crecimiento infantil")
-      figcaption Nota.https://shutr.bz/3fUzVjC y  https://shutr.bz/3xBfOwV
+      figcaption Nota. Tomado de shutterstock
 
     p Para la línea infantil las tallas son nombradas según la edad en años, correspondiente así la T2 a un niño o una niña de 2 años, sin embargo, esta es solo una nomenclatura de referencia, pues hay niños más pequeños o más grandes que su percentil o talla. 
 
@@ -731,7 +731,7 @@
           p.mb-0 #[i Tabla de medida niñas]
         .tabla-a.color-acento-botones.mb-5 
           table
-            caption Nota. https://bit.ly/3ACsPrR
+            caption Nota. Tomado de sewingset
             thead
               tr.th_bg_1.text-center
                 th(colspan='2') TALLA
@@ -986,7 +986,7 @@
       .col-lg-10
         .tabla-a.color-acento-botones.mb-5 
           table
-            caption Nota. https://bit.ly/37Bav6g
+            caption Nota. Tomado de Creamodashop
             thead
               tr.th_bg_1.text-center
                 th(colspan='9') PANTALÓN NIÑO: DELANTERO - TRASERO
@@ -1214,7 +1214,7 @@
       .col-lg-10
         .tabla-a.color-acento-botones.mb-5 
           table
-            caption Nota. https://bit.ly/3yFduq9
+            caption Nota. Tomado de Creamodashop
             thead
               tr.th_bg_1.text-center
                 th(colspan='9') PANTALÓN NIÑA DELANTERO / TRASERO
